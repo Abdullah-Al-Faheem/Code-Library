@@ -13,7 +13,7 @@ This file produces test inputs.
 
 > Note: [Smash me](https://youtu.be/1jcBJN05StQ) if you are unsure how to properly write a generator.
 
----
+
 
 ### 2. Brute Force Solution (`brute.cpp`)
 
@@ -21,7 +21,7 @@ This file produces test inputs.
 - It may be slow and even get TLE on large inputs
 
 
----
+
 
 ### 3. Optimized Solution (`code.cpp`)
 
@@ -29,7 +29,7 @@ This file produces test inputs.
 - This is the solution you want to test.
 - Its output will be compared with the brute force solution.
 
----
+
 
 ### 4. Run the Checker Script
 
@@ -41,6 +41,7 @@ bash checker.sh
 
 ---
 
+
 ## Resources:
 
 This stress tester was verified using the following problem:
@@ -49,8 +50,6 @@ This stress tester was verified using the following problem:
     
     https://codeforces.com/problemset/problem/327/A
     
-
----
 
 The following resources were helpful while building this stress tester:
 
